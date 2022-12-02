@@ -1,0 +1,1 @@
+{"version":3,"file":"IMapable.js","sourceRoot":"","sources":["../../src/backup/IMapable.ts"],"names":[],"mappings":"","sourcesContent":["// export type { IMappable } from '../types/Mapper';\n/** @deprecated */\nexport {};\n"]}
